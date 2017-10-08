@@ -16,17 +16,17 @@ A repo to help people to get started with git and github
   - Confirm the pull request and that's it!
 
   # There are some basic commands that are usually used, the command starts from the word "git":
-  - git init
+  - git init : 
   	Initializes a git repository – creates the initial ‘.git’ directory in a new or in an existing project. Example: cd /home/user/my_new_git_folder/ git init
-  - git status
+  - git status : 
 	Shows you the status of files in the index versus the working directory. It will list out files that are untracked (only in your working directory), modified (tracked but not yet updated in your index), and staged (added to your index and ready for committing). Example: git status # On branch master # # Initial commit # # Untracked files: # (use "git add <file>..." to include in what will be committed) # # README nothing added to commit but untracked files present (use "git add" to track)
-  - git push
+  - git push : 
 	Pushes all the modified local objects to the remote repository and advances its branches. Example: git push origin master
-  - git add
+  - git add : 
 	Adds files changes in your working directory to your index. Example: git add 
-  - git checkout
+  - git checkout : 
 	Checks out a different branch – switches branches by updating the index, working tree, and HEAD to reflect the chosen branch. Example: git checkout newbranch
-  - git diff
+  - git diff : 
 	Generates patch files or statistics of differences between paths or files in your git repository, or your index or your working directory. Example: git diff
-  - git remote
+  - git remote : 
 	Shows all the remote versions of your repository. Example: git remote origin

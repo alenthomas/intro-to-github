@@ -14,3 +14,13 @@ A repo to help people to get started with git and github
   - Go back to the original repo.
   - Hit "new pull request" and compare between forks.
   - Confirm the pull request and that's it!
+
+# Authors
+
+* **Alen Thomas** - (https://github.com/alenthomas)
+
+See also the list of [contributors](https://github.com/alenthomas/intro-to-github/graphs/contributors) who participated in this project.
+
+# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+

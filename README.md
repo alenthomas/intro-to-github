@@ -14,3 +14,7 @@ A repo to help people to get started with git and github
   - Go back to the original repo.
   - Hit "new pull request" and compare between forks.
   - Confirm the pull request and that's it!
+  
+  ## HACKTOBER 2018 contributers
+      Kabrie (Abhiroop kumar Banerjee)
+        https://github.com/Kabrie/
